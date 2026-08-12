@@ -4,5 +4,8 @@
 - Abdul
 
 # ToDo List
-[ ] - Truc à faire
-[ ] - Truc à faire
+- [x] Tâche à faire
+- [ ] Une autre tâche
+- [x] Tâche terminée
+
+
