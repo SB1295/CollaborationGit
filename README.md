@@ -1,5 +1,3 @@
-# CollaborationGit
-# CollaborationGit
-# CollaborationGit
-
-Équipe composée de Sofian, Mehdi
+# Equipe composé de :
+- Sofiân 
+- Mehdi
